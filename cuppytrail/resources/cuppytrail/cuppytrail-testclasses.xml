@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testclasses>
+  <cuppytrail>
+    <testclass>com.hybris.platform.cuppytrail.impl.DefaultStadiumServiceIntegrationTest</testclass>
+    <testclass>com.hybris.platform.cuppytrail.facades.impl.DefaultStadiumFacadeIntegrationTest</testclass>
+    <testclass>com.hybris.platform.cuppytrail.daos.impl.DefaultStadiumDAOIntegrationTest</testclass>
+    <testclass>com.hybris.jalo.CuppytrailTest</testclass>
+  </cuppytrail>
+</testclasses>
